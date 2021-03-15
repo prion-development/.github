@@ -20,6 +20,6 @@
 [ ] seeds  
 [ ] downtime  
 
-<Downtime is required if multiple services must be launched at the same time or for migrations taking longer than 1 minute>
+<Downtime is required if multiple services must be launched at the same time or for migrations taking longer than one minute>
 
 ### Scripts to Run After Deployment
